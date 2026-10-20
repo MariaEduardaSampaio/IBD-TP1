@@ -1,1 +1,9 @@
+# Banco gerado pelo notebook (recriado do zero a partir dos CSVs)
+*.db
+*.db-journal
+
+# Arquivos temporários
+.~lock.*#
+.ipynb_checkpoints/
+__pycache__/
 LivWell.zip
