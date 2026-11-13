@@ -10,7 +10,7 @@ TP_IBD_parcial.ipynb   Relatório da entrega parcial (seções 1–5)
 ibd012-eda/         Atividade de análise exploratória em SQL (IBD012) com os mesmos dados
 data/raw/           Dados originais do Kaggle (livwell.csv, indicators.csv)
 data/processed/     filtered_indicators.csv — os 100 indicadores selecionados pelo grupo
-diagramas/          Diagrama ER (diagrama_er.png) e diagrama relacional (diagrama_relacional.png)
+diagramas/          Diagrama ER (diagrama_er_v2.png) e diagrama relacional (diagrama_relacional_v2.png); as versões anteriores continuam na pasta
 docs/               Enunciado e proposta
 exploratorio/       Notebooks antigos de exploração (não fazem parte da entrega)
 ```
